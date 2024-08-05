@@ -4,8 +4,8 @@
   box-sizing: border-box;
 }
 
-#nike-store-1 {
-  height: 550px;
+#nike-store {
+  /* height: 550px; */
   align-items: stretch;
   display: flex;
   flex-direction: row;
