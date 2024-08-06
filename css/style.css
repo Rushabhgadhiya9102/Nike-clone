@@ -23,3 +23,11 @@
 
 
 /* ------------ A I R - J O R D A N - E N D ------------ */
+/* ------------ S P O T L I G H T S  ------------ */
+
+.spotlight-item img{
+  width: 400px;
+  height: 400px;
+}
+
+/* ------------ S P O T L I G H T S - E N D ------------ */
