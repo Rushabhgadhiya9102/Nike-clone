@@ -13,3 +13,13 @@
   overflow-x: auto;
   scrollbar-width: none;
 }
+
+/* ------------ A I R - J O R D A N ------------- */
+
+.air-jordan video{
+  object-fit: cover;
+  /* height: 650px; */
+}
+
+
+/* ------------ A I R - J O R D A N - E N D ------------ */
