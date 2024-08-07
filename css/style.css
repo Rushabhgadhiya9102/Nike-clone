@@ -31,3 +31,12 @@
 }
 
 /* ------------ S P O T L I G H T S - E N D ------------ */
+
+/* ------------ S P O R T - I T E M  ------------ */
+
+.sport-item .card{
+  width: 400px;
+  height: 300px;  
+}
+
+/* ------------ S P O R T - I T E M  - E N D ------------ */
