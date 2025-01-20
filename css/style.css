@@ -4,23 +4,20 @@
   box-sizing: border-box;
 }
 
-body{
-  padding-top: 100px;
+.gradient-text{
+  background-image: linear-gradient(to right,violet, aqua);
+  background-clip: text;
+  color: transparent;
 }
 
 #navbar{
   transition: ease-in .2s;
 }
 
-#nike-store {
-  /* height: 550px; */
-  align-items: stretch;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  overflow-x: auto;
-  scrollbar-width: none;
+.hero-section{
+  height: 100vh; 
 }
+
 
 /* ------------ A I R - J O R D A N ------------- */
 
